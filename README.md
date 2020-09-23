@@ -1,4 +1,4 @@
-#SQL-Database_Testing
+# SQL-Database_Testing
 Using JDBC (Java DataBase Connectivity API) which is a Java based library that allows interaction with different DataBases.
 I establish a Connection to our database using DriveManager Class 
 and passing parameters such as DatabaseURL, username and password. 
